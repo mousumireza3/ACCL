@@ -3051,65 +3051,7 @@ Blocks Styles
   color: #ffb300;
 }
 
-.header-top-area-inner form {
-  padding: 10px 0;
-  position: relative;
-  width: 250px;
-}
-
-.header-top-area-inner form input {
-  height: 40px;
-  line-height: 40px;
-  padding-left: 20px;
-  border: 1px solid #41414a;
-  border-radius: 3px;
-  color: #ffffff;
-  font-size: 14px;
-  font-weight: 300;
-  font-family: "Lato", sans-serif;
-  padding-right: 35px;
-  -webkit-transition: all 0.4s ease-out 0s;
-  -o-transition: all 0.4s ease-out 0s;
-  transition: all 0.4s ease-out 0s;
-}
-
-.header-top-area-inner form input::-webkit-input-placeholder {
-  color: #ffffff;
-}
-
-.header-top-area-inner form input:-moz-placeholder {
-  color: #ffffff;
-}
-
-.header-top-area-inner form input::-moz-placeholder {
-  color: #ffffff;
-}
-
-.header-top-area-inner form input:-ms-input-placeholder {
-  color: #ffffff;
-}
-
-.header-top-area-inner form input:focus {
-  border-color: #ffb300;
-}
-
-.header-top-area-inner form button[type="submit"], .header-top-area-inner form button[type="submit"] {
-  position: absolute;
-  left: auto;
-  top: 50%;
-  height: 40px;
-  margin-top: -20px;
-  right: 0;
-  color: #ffffff;
-  font-size: 16px;
-  border: none;
-  padding-right: 15px;
-  padding-left: 5px;
-}
-
-.header-top-area-inner form button[type="submit"]:hover, .header-top-area-inner form button[type="submit"]:hover {
-  color: #ffb300;
-}
+/*extra.css*/
 
 /* Header Bottom Area */
 .header-style-1 .header-bottom-area {
